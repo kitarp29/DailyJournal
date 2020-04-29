@@ -5,8 +5,7 @@ const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const _ = require("lodash");
 
-const homeStartingContent = "This is a webpage created by Pratik Singh with the aim to learn NodeJS and to learn how to deploy server using Herokuapp.
-It is a simple webpage that helps to create a Daily Blog for anyone who wants it .You Just have to click the 'Compse' button and start writting about the nmae of your Post and then go on with writting your post .It will automatically add your post on the Home page. ";
+const homeStartingContent = "This is a webpage created by Pratik Singh with the aim to learn NodeJS and to learn how to deploy server using Herokuapp.It is a simple webpage that helps to create a Daily Blog for anyone who wants it .You Just have to click the 'Compse' button and start writting about the nmae of your Post and then go on with writting your post .It will automatically add your post on the Home page. ";
 const aboutContent = "This is a webpage created by Pratik Singh with the aim to learn NodeJS and to learn how to deploy server using Herokuapp.";
 const contactContent = "If you have the link to acces this webpage then you must have my Number😜 ....But Thank you for checking out my stuff!";
 
